@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 善恭敬經
+#+DATE: 2015-08-30 20:44:35.956787
+#+PROPERTY: JUAN 0
