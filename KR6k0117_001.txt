@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:35.761281
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:06
 #+TITLE: 善恭敬經
 #+PROPERTY: CBETA_ID T24n1495
 #+PROPERTY: ID KR6k0117
