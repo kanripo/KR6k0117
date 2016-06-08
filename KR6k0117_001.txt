@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:35.761281
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:06
 #+TITLE: 善恭敬經
 #+PROPERTY: CBETA_ID T24n1495
 #+PROPERTY: ID KR6k0117
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1495
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0117_T_000-1100b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0117_T_001-1100b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1495¶
-
- 《善恭敬經》¶
+No. 1495¶
+《善恭敬經》¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
